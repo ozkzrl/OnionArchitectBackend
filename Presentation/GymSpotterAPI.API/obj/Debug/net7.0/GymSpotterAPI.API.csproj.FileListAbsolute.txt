@@ -1,0 +1,649 @@
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\appsettings.json
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.exe
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.deps.json
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.runtimeconfig.json
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.pdb
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.pdb
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.sourcelink.json
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.GymSpotterAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\scopedcss\bundle\GymSpotterAPI.API.styles.css
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CopyComplete
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\refint\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.genruntimeconfig.cache
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\ref\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\appsettings.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.exe
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.deps.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.runtimeconfig.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.sourcelink.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.GymSpotterAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\scopedcss\bundle\GymSpotterAPI.API.styles.css
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CopyComplete
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\refint\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.genruntimeconfig.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\ref\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.staticwebassets.runtime.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\appsettings.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.staticwebassets.runtime.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.exe
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.deps.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.runtimeconfig.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.sourcelink.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.GymSpotterAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\scopedcss\bundle\GymSpotterAPI.API.styles.css
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CopyComplete
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\refint\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.genruntimeconfig.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\ref\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\appsettings.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.staticwebassets.runtime.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.exe
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.deps.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.runtimeconfig.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.sourcelink.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.GymSpotterAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\scopedcss\bundle\GymSpotterAPI.API.styles.css
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CopyComplete
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\refint\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.genruntimeconfig.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\ref\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\appsettings.json
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.staticwebassets.runtime.json
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.exe
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.deps.json
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.runtimeconfig.json
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.pdb
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.pdb
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.pdb
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.sourcelink.json
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.GymSpotterAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\scopedcss\bundle\GymSpotterAPI.API.styles.css
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CopyComplete
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\refint\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.genruntimeconfig.cache
+C:\Users\ozkan\Desktop\GymSpotter\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\ref\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\appsettings.json
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.staticwebassets.runtime.json
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.exe
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.deps.json
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.runtimeconfig.json
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Ardalis.SmartEnum.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Elasticsearch.Net.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Analytics.v3.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Management.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.GymSpotterAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\scopedcss\bundle\GymSpotterAPI.API.styles.css
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CopyComplete
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\refint\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.genruntimeconfig.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\ref\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\appsettings.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.staticwebassets.runtime.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.exe
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.deps.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.runtimeconfig.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Ardalis.SmartEnum.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Elasticsearch.Net.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Analytics.v3.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Management.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.GymSpotterAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\scopedcss\bundle\GymSpotterAPI.API.styles.css
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CopyComplete
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\refint\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.genruntimeconfig.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\ref\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\appsettings.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.staticwebassets.runtime.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.exe
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.deps.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.runtimeconfig.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Ardalis.SmartEnum.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Elasticsearch.Net.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Analytics.v3.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Management.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.GymSpotterAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\scopedcss\bundle\GymSpotterAPI.API.styles.css
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CopyComplete
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\refint\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.genruntimeconfig.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\ref\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Exchange.WebServices.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\appsettings.json
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.staticwebassets.runtime.json
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.exe
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.deps.json
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.runtimeconfig.json
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Ardalis.SmartEnum.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Elasticsearch.Net.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Analytics.v3.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Exchange.WebServices.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Scrutor.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Management.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Application.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Infrastructure.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\GymSpotterAPI.Persistence.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.sourcelink.json
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.GymSpotterAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.build.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GymSpotterAPI.API.props
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\scopedcss\bundle\GymSpotterAPI.API.styles.css
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.csproj.CopyComplete
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\refint\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\GymSpotterAPI.API.genruntimeconfig.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\obj\Debug\net7.0\ref\GymSpotterAPI.API.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Presentation\GymSpotterAPI.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

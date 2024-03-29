@@ -1,0 +1,113 @@
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.deps.json
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.sourcelink.json
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\refint\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\GymSpotter - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\ref\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.deps.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.sourcelink.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\refint\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter3\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\ref\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.deps.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.sourcelink.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\refint\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\ref\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.deps.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.sourcelink.json
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\refint\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gym\GymSpotter4 - Kopya\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\ref\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.deps.json
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.sourcelink.json
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\refint\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\GymSpotter\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\ref\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.deps.json
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\refint\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend-main (1)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\ref\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.deps.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\refint\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (2)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\ref\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.deps.json
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\refint\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\Gzm\gym_spotter_backend-main (3)\gym_spotter_backend-main\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\ref\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.deps.json
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\bin\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.AssemblyInfo.cs
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.sourcelink.json
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\refint\GymSpotterAPI.Domain.dll
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\GymSpotterAPI.Domain.pdb
+C:\Users\ozkan\Desktop\gym_spotter_backend\Core\GymSpotterAPI.Domain\obj\Debug\net7.0\ref\GymSpotterAPI.Domain.dll
